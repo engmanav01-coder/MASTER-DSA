@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/engmanav01-coder/100days-dsa/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/engmanav01-coder/100days-dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/engmanav01-coder/100days-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
