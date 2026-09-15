@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/engmanav01-coder/100days-dsa/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/engmanav01-coder/100days-dsa/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/engmanav01-coder/100days-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/engmanav01-coder/100days-dsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/engmanav01-coder/100days-dsa/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/engmanav01-coder/100days-dsa/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/engmanav01-coder/100days-dsa/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
